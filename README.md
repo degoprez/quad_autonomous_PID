@@ -2,7 +2,7 @@
 
 The goal of this project is to make a drone which is relatively easy to operate and autonomously localizes survivors using wireless frequencies, and mapping. This is important to both civilians and rescue operators, as it should boost the efficiency and efficacy of rescue missions while reducing first responder injuries and fatalities.
 
-In order to do that this code has been written to make the drone autonomously moving and avoid obstacles. 
+In order to do that. This code has been written to make the drone autonomously moving and avoid obstacles. 
 
 ##**Demonstration**
 
