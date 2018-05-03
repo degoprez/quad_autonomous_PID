@@ -10,9 +10,7 @@ This video demonstrates a quadcopter using information from a Kinect RGB-D simul
 
 As the calculated centroid changes, the two PIDs (yaw and altitude) compensate for the change accordingly and provide the velocity commands to the quadcopter. The forward velocity is always a constant.
 
-The demonstration in the following Link:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EU2-wwvtgI0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+The demonstration in the following Link: https://www.youtube.com/embed/EU2-wwvtgI0
 
 
 ##**Future Work**
