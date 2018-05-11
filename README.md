@@ -57,7 +57,7 @@ to:
 ```
 <param name="frame_id" type="string" value="world" />
 ...
-<!--remap from="cloud_in" to="/camera/depth/points" /-->
+<remap from="cloud_in" to="/camera/depth/points"/>
 ```
 ## Launch the program
 Finally, to launch the program first run the hector quadrotor demo world:
